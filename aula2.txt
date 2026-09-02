@@ -1,0 +1,3 @@
+Arquivo criado diretamente no Github.
+
+Aula 2 - Fluxo Básico do git
